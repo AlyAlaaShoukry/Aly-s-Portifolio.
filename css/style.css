@@ -1,0 +1,105 @@
+
+.First{
+background-color: #33379e;
+width: 100%;
+height: 49rem;
+position: relative;
+}
+.Second{
+background-color: rgb(96, 117, 117);
+width: 50%     ;
+height: 100px;
+position: absolute;
+top: 0%;
+left: 350px;
+border-radius: 35px 35px 35px 35px;
+}
+.Second p{
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+}
+img{
+   width: 500px;
+   height: 100vh;
+   overflow: hidden;
+position: absolute;
+top: 120px;
+left: 430px;
+border-radius: 10px 10px 10px 10px  ;
+}
+.Text{
+background-color: rgb(204, 204, 204);
+position: absolute;
+width: 100%;
+height: 50rem;
+}
+.Text img{
+    width: 30%;
+    height: 400px;
+position: absolute;
+top: 190px;
+left: 50px;
+}
+.Text p{
+    position: relative;
+    top: 90px;
+   left: 500px;
+    font-size: 50px;
+   height: 300px;
+   width: 60%;
+   text-align: left;
+}
+.Photos img{
+    width: 30%;
+    height: 400px;
+    position: absolute;
+    top: 100px;
+    left: 150px;
+}
+.Photos{
+    background-color: rgb(144, 139, 153);
+    position: absolute;
+    top: 95rem;
+width: 100%;
+height: 40rem;
+}
+.Photos p{
+    position: relative;
+    top: 390px;
+    left: 155px;
+   width: 30%;
+   height: 20px;
+    font-size: medium;
+    color: wheat;
+}
+p3{
+position: absolute;
+top: 100px;
+left: 150px;
+font-size: 42px;
+font-family: fantasy;
+}
+.Second-Pic img{
+    position: absolute;
+    top: 100px;
+    left: 750px;
+    width: 35%;
+    height: 400px;
+}
+p2{
+    position:absolute;
+    top: 100px;
+    right: 150px;
+    font-size: 42px;
+    font-family: fantasy ;
+}
+p4{
+    color: wheat;
+    position:absolute;
+    top: 390px;
+    right: 180px;
+    width: 30%;
+    height: 18px;
+}
